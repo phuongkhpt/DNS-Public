@@ -162,5 +162,3 @@
 2620:fe::fe:10
 2620:fe::fe:11
 2620:ff:c000:0:1::64:25
-;; Warning: ID mismatch: expected ID 14521, got 29590
-;; communications error to 1.1.1.1#53: timed out
